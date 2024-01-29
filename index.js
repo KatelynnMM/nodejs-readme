@@ -24,6 +24,42 @@ async function promptUser() {
     ]);
 }
 
+// Function to generate README content
+function generateReadme(answers) {
+    return `
+# ${answers.title}
+
+## Description
+${answers.description}
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+<!-- Add installation instructions here -->
+
+## Usage
+<!-- Add usage information here -->
+
+## License
+This project is licensed under the ${answers.license} License.
+
+## Contributing
+<!-- Add contribution guidelines here -->
+
+## Tests
+<!-- Add test instructions here -->
+
+## Questions
+For questions, please contact ${answers.email}.
+GitHub: [${answers.username}](https://github.com/${answers.username})
+  `;
+}
 
 // Main function
 async function init() {
@@ -40,7 +76,8 @@ async function init() {
     }
 }
 
-
+// Run the application
+init();
 
 
 

@@ -20,6 +20,26 @@ async function promptUser() {
             message: 'Choose a license for your project:',
             choices: ['MIT', 'Apache 2.0', 'GPL 3.0', 'BSD 3-Clause'],
         },
+        {
+            type: 'input',
+            name: 'usage',
+            message: 'How is your project used?:',
+        },
+        {
+            type: 'input',
+            name: 'installation',
+            message: 'Are there and installation instructions for your project?:',
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: 'Enter your contactact email for further questions:',
+        },
+        {
+            type: 'input',
+            name: 'username',
+            message: 'Enter your Github username:',
+        }
         // Add more prompts based on the acceptance criteria
     ]);
 }
@@ -41,10 +61,11 @@ ${answers.description}
 - [Questions](#questions)
 
 ## Installation
-<!-- Add installation instructions here -->
+${answers.installation}
+
 
 ## Usage
-<!-- Add usage information here -->
+${answers.usage}
 
 ## License
 This project is licensed under the ${answers.license} License.

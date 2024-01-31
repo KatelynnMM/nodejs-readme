@@ -1,8 +1,8 @@
 
-# Node.js README
+# node readme
 
 ## Description
-this a dry run
+please work
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,10 +13,11 @@ this a dry run
 - [Questions](#questions)
 
 ## Installation
-<!-- Add installation instructions here -->
+do stuff
+
 
 ## Usage
-<!-- Add usage information here -->
+carefully
 
 ## License
 This project is licensed under the MIT License.
@@ -28,6 +29,6 @@ This project is licensed under the MIT License.
 <!-- Add test instructions here -->
 
 ## Questions
-For questions, please contact undefined.
-GitHub: [undefined](https://github.com/undefined)
+For questions, please contact katemc@gmail.com.
+GitHub: [katelynnmm](https://github.com/katelynnmm)
   

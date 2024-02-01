@@ -29,7 +29,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-## Getting Started
+## How To Use It
 
 You will need to install the padckage-lock.json and node modules. you can do this by opening the app in you local terminal and runnign the following command : npm install.
 Once that is complete simply follow the promps and answer all the necessary questions about your project and a complete README will be generated.

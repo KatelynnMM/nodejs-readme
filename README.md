@@ -1,8 +1,8 @@
 
-# readme
+# node.js README
 
 ## Description
-tryin log
+A quick was for developers to create a simple README for theyre dprojects
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,14 +13,14 @@ tryin log
 - [Questions](#questions)
 
 ## Installation
-do stuff
+you must first open the file in your local terminal then type npm install to download the necessary libraries
 
 
 ## Usage
-it doesnt
+By answering a series of questions about your project the answers are neatly layed out in a readme file that can also be viewd in markdown format
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
 
 ## Contributing
 <!-- Add contribution guidelines here -->
@@ -29,6 +29,6 @@ This project is licensed under the MIT License.
 <!-- Add test instructions here -->
 
 ## Questions
-For questions, please contact kt@gmail.com.
-GitHub: [katelynnmm](https://github.com/katelynnmm)
+For questions, please contact katemc@gmail.com.
+GitHub: [Katelynnmm](https://github.com/Katelynnmm)
   

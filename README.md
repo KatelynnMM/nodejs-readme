@@ -1,8 +1,8 @@
 
-# node readme
+# readme
 
 ## Description
-please work
+tryin log
 
 ## Table of Contents
 - [Installation](#installation)
@@ -17,7 +17,7 @@ do stuff
 
 
 ## Usage
-carefully
+it doesnt
 
 ## License
 This project is licensed under the MIT License.
@@ -29,6 +29,6 @@ This project is licensed under the MIT License.
 <!-- Add test instructions here -->
 
 ## Questions
-For questions, please contact katemc@gmail.com.
+For questions, please contact kt@gmail.com.
 GitHub: [katelynnmm](https://github.com/katelynnmm)
   

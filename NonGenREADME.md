@@ -36,4 +36,8 @@ Once that is complete simply follow the promps and answer all the necessary ques
 
 https://drive.google.com/file/d/1MIJgtEbANfXRqJFcF7OElqON3YiIn6k3/view
 
+https://github.com/KatelynnMM/nodejs-readme
 
+
+Direct link to sample generated README
+https://github.com/KatelynnMM/nodejs-readme/blob/main/README.md
